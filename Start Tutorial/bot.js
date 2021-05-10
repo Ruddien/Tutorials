@@ -14,7 +14,7 @@ bot.on
 }
 )
 
-bot.login('NzE2Mzg4NDAyNDc5NzU5Mzgx.XtLCsQ.QbkHpJdl9tC9ENJWvJKE_09KDm8');
+bot.login('Ваш токен бота');
 
 
     
